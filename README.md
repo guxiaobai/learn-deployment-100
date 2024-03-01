@@ -7,4 +7,9 @@
 
 ## 在下莫老师的个人空间-在下莫老师个人主页-哔哩哔哩视频
 
-* [`一次装机100台！iVentoy，新一代PXE网启服务器使用指南_哔哩哔哩_bilibili`](https://www.bilibili.com/video/BV1hP411e7HD/?spm_id_from=333.999.0.0)
+* [一键重装的版本答案？利用Ventoy+应答脚本，手搓一个无人值守系统安装U盘](https://www.bilibili.com/video/BV12w411w7ju)
+* [一次装机100台！iVentoy，新一代PXE网启服务器使用指南](https://www.bilibili.com/video/BV1hP411e7HD/)
+
+## Hex-Railty的个人空间-Hex-Railty个人主页-哔哩哔哩视频
+
+* [自制WinPE教程](https://space.bilibili.com/495022394/channel/seriesdetail?sid=2031798)
