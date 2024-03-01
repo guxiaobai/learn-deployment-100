@@ -10,6 +10,12 @@
 * [一键重装的版本答案？利用Ventoy+应答脚本，手搓一个无人值守系统安装U盘](https://www.bilibili.com/video/BV12w411w7ju)
 * [一次装机100台！iVentoy，新一代PXE网启服务器使用指南](https://www.bilibili.com/video/BV1hP411e7HD/)
 
-## Hex-Railty的个人空间-Hex-Railty个人主页-哔哩哔哩视频
 
-* [自制WinPE教程](https://space.bilibili.com/495022394/channel/seriesdetail?sid=2031798)
+## Misc
+
+* [imagex工具整合window11的wim镜像](https://blog.csdn.net/u010080562/article/details/120622554)
+
+> DISM 取代了數種部署工具，包括 PEimg、Intlcfg、ImageX 和套件管理員。
+
+* [DISM - 部署映像服務與管理](https://learn.microsoft.com/zh-tw/windows-hardware/manufacture/desktop/dism---deployment-image-servicing-and-management-technical-reference-for-windows?view=windows-11)
+* [DISM 概述](https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/what-is-dism?view=windows-11)
