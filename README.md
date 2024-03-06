@@ -19,3 +19,16 @@
 
 * [DISM - 部署映像服務與管理](https://learn.microsoft.com/zh-tw/windows-hardware/manufacture/desktop/dism---deployment-image-servicing-and-management-technical-reference-for-windows?view=windows-11)
 * [DISM 概述](https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/what-is-dism?view=windows-11)
+* [windows系统查看用户sid](https://www.cnblogs.com/heqiuyu/p/14299560.html)
+* [大白狗的封装札记 - 2 基础知识_IT天空](https://www.itsk.com/thread/402224)
+* [小鱼儿yr系统 - 专注于系统封装重装系统下载软件分享教程](https://www.yrxitong.com/)
+
+
+## Command
+
+```bash
+net user Administrator /active:Yes
+
+whoami /user
+wmic useraccount get name,sid
+```
